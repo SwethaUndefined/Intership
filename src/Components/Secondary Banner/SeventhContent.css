@@ -1,0 +1,23 @@
+#headingFive {
+    color: white;
+    margin: 0 0 0 100px;
+    padding-top: 100px;
+  }
+  #parent6 {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto;
+  }
+  .headingSix {
+    margin: 50px 0 0 150px;
+    color: white;
+  }
+ .paraNive{
+    margin: 50px 0 0 150px;
+    color: white;
+    padding-bottom: 50px;
+    font-size: 20px;
+  }
+  #maindiv{
+    background-color: black;
+  }

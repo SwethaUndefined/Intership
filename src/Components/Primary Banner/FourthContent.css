@@ -1,0 +1,26 @@
+#headingThree{
+    color: white;
+    position: absolute;
+    top: -120px;
+    left: 100px;
+    font-size: 40px;
+} 
+#parent4{
+    position: relative;
+}
+#imgFive{
+    height: 600px;
+    width: 1333px;
+    transform: translate(0,-220px);
+}
+#paraSeven{
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
+
+
+
+

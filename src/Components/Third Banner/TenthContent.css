@@ -1,0 +1,16 @@
+#lionimg{
+    height: 400px;
+    width: 400px;
+}
+#parentdiv5{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    background-color: black;
+    padding-top: 50px;
+    font-size: 22px;
+    transform: translate(0,-50px);
+    padding-left: 30px;
+}

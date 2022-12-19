@@ -1,0 +1,22 @@
+
+#maindiv4
+{
+    margin: 0 0 0 190px;
+    padding-top: 70px;
+}
+#headingEight{
+    font-size: 46px;
+    letter-spacing: 2px;
+    margin-left: -2px;
+}
+#headingNine{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+#parentdiv{
+    background-color: black;
+}
+.paraTwelve{
+    font-size: 20px;
+    
+}

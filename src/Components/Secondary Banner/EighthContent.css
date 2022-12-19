@@ -1,0 +1,23 @@
+.imgSeven {
+    height: 200px;
+  }
+  #parent8 {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto auto auto auto auto;
+    padding-bottom: 30px;
+    margin-top: 50px;
+  }
+  #maindiv3 {
+    margin-top: 100px;
+    background-color: black;
+    transform: translate(0,-100px);
+  }
+  #headingSeven{
+    padding-top: 50px;
+    margin-left: 120px;
+    margin-top: 50px;
+  }
+  .paraEleven{
+    margin-left: 50px;
+  }

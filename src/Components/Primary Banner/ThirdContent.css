@@ -1,0 +1,32 @@
+#parent3{
+    background-color:mediumvioletred;
+    position: relative;
+    transform: translate(0,-170px);
+}
+#headingTwo{
+  font-size: 50px;
+  margin: 80px 0 0 150px ;
+  line-height: 46px;
+  padding-top: 50px;
+}
+#paraFour{
+    font-size: 20px;
+    margin: 80px 0 0 150px ;
+    line-height: 36px;
+}
+#paraFive,#paraSix{
+    font-size: 20px;
+    margin: 20px 0 50px 150px ;
+    line-height: 36px;
+    color: white;
+}
+#paraSix{
+    padding-bottom: 20px;
+}
+
+#imgFour{
+    position: absolute;
+    right: 100px;
+    top:80px;
+    height: 450px;
+}

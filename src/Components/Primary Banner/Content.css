@@ -1,0 +1,19 @@
+#parentOne{
+    background-image: url("../Images/FirstImage.jpg");
+    transform: translate(0,-30px);
+}
+#paraOne{
+ color: white;
+ padding-left: 82px;
+ font-size: 24px;
+ padding-top: 40px;
+}
+#heading{
+  padding-top: 100px;
+  padding-left: 50px;
+}
+button{
+    margin: 60px 60px 60px 80px;
+    padding: 10px;
+    border-radius: 8px;
+}

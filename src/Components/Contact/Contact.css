@@ -1,0 +1,40 @@
+#img13{
+    height: 525px;
+    width: 1350px;
+}
+form{
+    background-color: bisque;
+    width: 270px;
+    padding: 100px;
+    position: absolute;
+    top: 90px;
+    left: 600px;
+    height: 170px;
+}
+#maindiv6{
+ position: relative;
+}
+#bubbleimg{
+    height: 370px;
+    width: 470px;
+    position: absolute;
+    top: 90px;
+    left: 150px;
+}
+#bottomdiv{
+    display: flex;
+}
+#para15{
+    color:slategrey;
+    font-size: 44px;
+    font-weight: bolder;
+    position: absolute;
+    top : 200px;
+    left: 250px;
+}
+#sendBtn{
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    background-color:coral;
+    border: none;
+}
